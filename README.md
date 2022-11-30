@@ -30,7 +30,8 @@ Using the theory of [Frobenius reciprocity](https://en.wikipedia.org/wiki/Froben
 $G_1 \times G_2$ where $G_1 \subset \mathbf{GL}(V)$ is a subgroups and likewise $G_2 \subset \mathbf{GL}(W)$.
 
 **Note**: The action of $\mathbf{GL}(V) \times \mathbf{GL}(W)$ is by $X \mapsto A^{-1}XB$, i.e. by 
-base change on the two vector spaces $V$ and $W$. Also note, in Procesi's books, equivariant maps
+base change on the two vector spaces $V$ and $W$. Also note, in Procesi's work, equivariant maps are often called 
+"*intertrwiners*".
 
 ## SageMath 
 [Link 1](https://doc.sagemath.org/html/en/reference/combinat/sage/combinat/tableau.html)
