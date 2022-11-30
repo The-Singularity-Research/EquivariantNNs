@@ -32,4 +32,7 @@ $G_1 \times G_2$ where $G_1 \subset \mathbf{GL}(V)$ is a subgroups and likewise 
 **Note**: The action of $\mathbf{GL}(V) \times \mathbf{GL}(W)$ is by $X \mapsto A^{-1}XB$, i.e. by 
 base change on the two vector spaces $V$ and $W$. Also note, in Procesi's books, equivariant maps
 
+## SageMath 
+[Link 1](https://doc.sagemath.org/html/en/reference/combinat/sage/combinat/tableau.html)
+[Link 2](https://more-sagemath-tutorials.readthedocs.io/en/latest/tutorial-partitions.html)
 
