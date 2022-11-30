@@ -10,8 +10,12 @@ study of equivariant neural networks.
 There is a diality between the points (i.e. a single linear map) in the space of all linear maps, 
 and the space of polynomial function on it. We denote points (linear maps or matrices) from the 
 vector space $V \cong K^n$ to the vector space $W \cong K^m$, by 
-$$\mathbf{Hom}_K(V,W) \cong \mathbf{Mat}_{m \times n}(K)$$. We denote the space of polynomial
-functions on $$\mathbf{Hom}_K(V,W)$$ by $$K[\mathbf{Hom}_K(V,W)] \cong K[\mathbf{Mat}_{m \times n}(K)]$$
+$$\mathbf{Hom}_K(V,W) \cong \mathbf{Mat}_{m \times n}(K).$$ 
+We denote the space of polynomial
+functions on 
+$$\mathbf{Hom}_K(V,W)$$ 
+by 
+$$K[\mathbf{Hom}_K(V,W)] \cong K[\mathbf{Mat}_{m \times n}(K)]$$
 
 This duality implies it is helpful to understand how to find an equivariant basis of 
 "*standard monomials*" for the "*coordinate ring*" $K[\mathbf{Hom}_K(V,W)]$ with respect to some
