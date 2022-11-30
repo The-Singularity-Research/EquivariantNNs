@@ -24,4 +24,7 @@ Using the theory of [Frobenius reciprocity](https://en.wikipedia.org/wiki/Froben
 representations to find equivariant bases with respect to other group actions of the form
 $G_1 \times G_2$ where $G_1 \subset \mathbf{GL}(V)$ is a subgroups and likewise $G_2 \subset \mathbf{GL}(W)$.
 
+**Note**: The action of $\mathbf{GL}(V) \times \mathbf{GL}(W)$ is by $X \mapsto A^{-1}XB$, i.e. by 
+base change on the two vector spaces $V$ and $W$. 
+
 
