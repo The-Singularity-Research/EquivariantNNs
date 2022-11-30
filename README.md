@@ -34,5 +34,8 @@ base change on the two vector spaces $V$ and $W$. Also note, in Procesi's books,
 
 ## SageMath 
 [Link 1](https://doc.sagemath.org/html/en/reference/combinat/sage/combinat/tableau.html)
+
 [Link 2](https://more-sagemath-tutorials.readthedocs.io/en/latest/tutorial-partitions.html)
+
+[Link 3](http://fe.math.kobe-u.ac.jp/icms2010-dvd/SAGE/www.sagemath.org/doc/reference/sage/combinat/tableau.html)
 
