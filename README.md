@@ -15,7 +15,7 @@ We denote the space of polynomial
 functions on 
 $$\mathbf{Hom}_K(V,W)$$ 
 by 
-$$K[\mathbf{Hom}_K(V,W)] \cong K[\mathbf{Mat}_{m \times n}(K)]$$
+$$K[\mathbf{Hom}_K(V,W)] \cong K[\mathbf{Mat}_K(m,n)]$$
 
 This duality implies it is helpful to understand how to find an equivariant basis of 
 "*standard monomials*" for the "*coordinate ring*" $K[\mathbf{Hom}_K(V,W)]$ with respect to some
